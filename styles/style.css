@@ -54,7 +54,7 @@ header{
     font-weight: 600;
 }
 
-@media screen and (max-width: 900px){
+@media screen and (max-width: 1100px){
     .navbar .barre_des_taches{
         display: block;
     }
@@ -415,7 +415,7 @@ section#formulaire {
     }
  
 }
-@media screen and (max-width: 900px){
+@media screen and (max-width: 1100px){
     .contenu-footer{
         width: 320px;
  
